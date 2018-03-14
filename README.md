@@ -1,2 +1,3 @@
 # hello-world
-just a github test demo
+Hi here:
+ I'm Allen, i'm practice to use github. 
